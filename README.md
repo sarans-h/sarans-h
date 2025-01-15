@@ -9,8 +9,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saranshgupta6252@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://leetcode.com/u/saransh_31/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Leetcode&logo=codesandbox&label=&color=FFFF00&logoColor=000000&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
-</div>
+  </a>
+  </div>
 
 ###
 
