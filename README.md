@@ -1,110 +1,103 @@
 <div align="center">
-  <img height="200" width="600" src="https://ik.imagekit.io/1x1lu8hz8/1736971170709g9p96d67-transformed.webp?updatedAt=1736972197166" />
+  <img src="https://ik.imagekit.io/1x1lu8hz8/1736971170709g9p96d67-transformed.webp?updatedAt=1736972197166" width="620" alt="banner" />
 </div>
 
-###
+<h1 align="center">Hi, I'm Saransh Gupta 👋</h1>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saranshgupta6252@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+<p align="center">
+  <b>Full-Stack Engineer</b> · MERN + Next.js · Building fast, scalable web products
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saransh-gupta-b1a6a7218/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/saransh_31/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=codesandbox&label=&color=FFFF00&logoColor=000000&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saranshgupta6252@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  </div>
+  <a href="https://leetcode.com/u/saransh_31/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarans-h&style=flat-square&color=6f42c1&label=Profile+views" alt="profile views" />
+</p>
 
-<h1 align="center">Saransh Gupta</h1>
+---
 
-###
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sarans-h/count.svg?"  />
-</div>
+- 🛠️ &nbsp;I build end-to-end web applications with **React, Next.js, Node.js & MongoDB**
+- ⚡ &nbsp;Focused on performance, clean architecture, and great developer experience
+- 📡 &nbsp;Comfortable across the stack — REST APIs, real-time systems (Kafka, Redis), and modern frontends
+- 🌱 &nbsp;Currently going deeper on **Next.js internals** and scalable system design
+- 💬 &nbsp;Ask me about React, Next.js, or anything JavaScript
 
-###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarans-h&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
+### 🧰 Tech Stack
 
-<p align="left">👨‍💻Hi there! I'm Saransh Gupta, a passionate web developer continuously exploring the world of advanced web development and Next.js. Here's a bit about me and the projects I'm proud of:<br><br>📚 What I'm Currently Learning<br>Next.js for building high-performance web apps.<br>Advanced techniques in web development to enhance user experiences.</p>
+**Languages**
 
-###
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-<img src="https://raw.githubusercontent.com/sarans-h/sarans-h/output/snake.svg" alt="Snake animation" />
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-###
+**Backend & Data**
 
-<h3 align="left">🛠 Language and tools</h3>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 
-###
+**Tools**
 
-<br clear="both">
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
 
-<h3 align="left"></h3>
+---
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="apachekafka logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="50" alt="babel logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="50" alt="appwrite logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarans-h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarans-h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarans-h&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarans-h&layout=compact&langs_count=6&hide_border=true&theme=dracula" alt="top languages" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sarans-h&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarans-h&hide_border=true&theme=dracula" alt="streak" />
 </div>
 
-###
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarans-h&radius=16&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sarans-h/sarans-h/output/snake.svg" alt="snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarans-h&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</div>
+
+<p align="center"><i>⭐️ Thanks for stopping by — let's build something great.</i></p>
